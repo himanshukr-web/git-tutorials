@@ -1,0 +1,2 @@
+here is the next file just form demo 
+i am writing here just for the getting the difference of working directory and staging area
